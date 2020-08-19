@@ -1,0 +1,57 @@
+.jj_1 {
+    background-color: midnightblue;
+    margin: auto;
+    display: block;
+    padding: 30px;
+    position: relative; 
+    top: 100px;
+    height: 150px;
+    text-align: center;
+    width: 1000px;
+}
+
+.jj_2 {
+    background-color: midnightblue ;
+    margin: auto;
+    display: inline-block
+    padding: 10px;
+    position: relative; 
+    top: 150px;
+    height: 300px;
+    text-align: center;
+    width: 800px;
+}
+
+.first {
+    text-align: center;
+    position: relative; 
+    top: 50px;
+    margin: auto;
+    color: gray;
+}
+
+.subMit {
+    width: 50%;
+    padding: 10px;
+    margin: 0 0 10px 0;
+}
+
+.suu {
+    width: 20%;
+    padding: 1px;
+    position: relative;
+    top: 10px;
+}
+
+.woo {
+    display: inline;
+    text-align: center;
+    color: whitesmoke;
+    padding: 100px;
+    position: relative;
+    top: 30px;
+}
+
+.table, th, td {
+    width: 33.33%;
+}
